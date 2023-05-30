@@ -47,6 +47,7 @@ public class Client {
         }
     }
 
+
     /**
      * Reads the username from the user.
      *
